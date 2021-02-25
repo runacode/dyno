@@ -1,4 +1,4 @@
-<?php $company = "Dyno PlumbingCLAIM";
+<?php $company = "Dyno Plumbing";
 $phone = "1(702) 210-9429";
 	$address1 = "3170 E SUNSET RD STE B";
 	$address2 = "LAS VEGAS, NV 89120";
